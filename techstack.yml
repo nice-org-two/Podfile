@@ -1,7 +1,7 @@
 repo_name: nice-org-two/Podfile
-report_id: 9223840ab2ffed3bbc94c01fdda28281
+report_id: 25bbce08b9eebed521bb0f976ab0a3b1
 repo_type: Public
-timestamp: '2023-11-07T12:49:19+00:00'
+timestamp: '2023-11-08T07:32:58+00:00'
 requested_by: azu
 provider: github
 branch: master
@@ -15,7 +15,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1008/xcode.png
+  image_url: https://img.stackshare.io/service/1008/xcode.png
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -25,7 +25,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/989/ruby.png
+  image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -35,7 +35,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
   detection_source: Podfile
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,7 +44,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: CocoaPods
   description: A dependency manager for Swift and Objective-C Cocoa projects
@@ -53,7 +53,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: CocoaPods Packages
-  imageURL: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
   detection_source: Podfile.lock
 - name: SaaS Boilerplate by Apptension
   description: 'Never waste time on building features every SaaS includes. '
@@ -61,6 +61,6 @@ tools:
   version: '0.9'
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/41174/default_0f6308cbf1fde80d1773f75508e1cc2993589163.png
+  image_url: https://img.stackshare.io/service/41174/default_0f6308cbf1fde80d1773f75508e1cc2993589163.png
   detection_source_url: Podfile.lock
   detection_source: Podfile
