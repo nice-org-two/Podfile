@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/Podfile](https://github.com/nice-org-two/Podfile)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|11/10/23 <br/>Report generated|
+|6<br/>Tools used|11/13/23 <br/>Report generated|
 |------|------|
 </div>
 
